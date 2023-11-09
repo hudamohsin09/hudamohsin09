@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hudamohsin09
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently working on Real-world ML Problems
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on innovative AI projects that can benefit from my expertise in algorithm development and data analysis.
 - 📫 How to reach me through huda.mohsin@pixeledge.io
 
 <!---
